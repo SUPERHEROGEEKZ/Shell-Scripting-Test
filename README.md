@@ -1,30 +1,34 @@
 # Shell-Scripting-Test
 Demonstrate the ability to use text editors in the shell. Demonstrate the ability to create and execute shell scripts. Demonstrate the ability to create and compile multi-file C++ programs. Demonstrate the ability to access the command line arguments from within a C++ program. Demonstrate proficiency in logging your console input/output using the script command.
 
-————————
-LIST OF FILES:
-————————
+———— LIST OF FILES: ————
+
 compile.sh
+
 file1.cc
+
 file2.cc
+
 header.h
+
 run.sh
+
 stderr.log
+
 stdout.log
+
 typescript
+
 README.txt
 
-———————————
-FILE DESCRIPTIONS:
-———————————
+———— FILE DESCRIPTIONS: ————
 
 README.txt: This is a text file that has a list of files, the description of each file, and instructions on how to compile and run the project.
 
 * Other file descriptions written inside the files.
 
-——————————————————————
-HOW TO COMPILE AND RUN THE PROJECT:
-——————————————————————
+———— HOW TO COMPILE AND RUN THE PROJECT: ————
+
 You can use this program to run in the terminal or anything that supports UNIX/LINUX.
 
 STEPS:
